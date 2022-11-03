@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM Practice</string>
+    <string name="pull_request_info">Pull Request Info</string>
+    <string name="merged">Merged</string>
+</resources>
